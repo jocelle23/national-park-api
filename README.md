@@ -1,6 +1,6 @@
-# national-parks-api
+# national-park-api
 
-[National Parks API - List User's Repositories](https://jocelle23.github.io/national-parks-api/)
+[National Park API - Enable User to Search for Parks](https://jocelle23.github.io/national-park-api/)
 
 "Requirements:
 - The user must be able to search for parks in one or more states.
